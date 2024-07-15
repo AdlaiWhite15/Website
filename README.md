@@ -1,2 +1,2 @@
 # Website
-Simple website created using JavaScript, Html, and CSS
+Simple website created using JavaScript, HTML, and CSS
